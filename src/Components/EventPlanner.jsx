@@ -11,4 +11,5 @@ const EventPlanner = () => {
     );
 };
 
-export default EventPlanner;
+export default EventPlanner; 
+
